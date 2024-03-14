@@ -1,0 +1,94 @@
+[
+    {
+        "input": "What is MoBerries?",
+        "payload": "MoBerries is an exclusive network of leading rapid-growth companies sharing their to-be-urgently-placed positions."
+    },
+    {
+        "input": "How does it work? What do I need to do?",
+        "payload": "Create your profile in seconds, upload your CV and start liking Jobs you are interested in. For more details see the How-to section."
+    },
+    {
+        "input": "What makes MoBerries different?",
+        "payload": "MoBerries gives you direct access to hiring managers of our network for openings requiring urgent fulfilment. No hiring fees."
+    },
+    {
+        "input": "What is in it for me as candidate?",
+        "payload": "Get several offers as fast as possible."
+    },
+    {
+        "input": "Who are your partner companies?",
+        "payload": "We work with a variety of startups, established digital leaders, influential corporates, Investors and Investment funds."
+    },
+    {
+        "input": "What are the main positions / functions you specialize in?",
+        "payload": "We aim to help the highest number of people as we possibly can, and hence, do not limit ourselves to specific job roles. Also, a company can need any role at any time! We cover all roles starting from intern-level all the way up to C-level ones. We cover all functional roles."
+    },
+    {
+        "input": "What do I do if I am interested in a partner company that does not have the desired opening for me?",
+        "payload": "You should join regardless. We work closely with our partners, and it is not unusual for them to express interest in profiles even if they do not have a related job description listed at that moment."
+    },
+    {
+        "input": "What open positions do you have?",
+        "payload": "Way too many to be listed here! Hundreds of new roles go live every single day."
+    },
+    {
+        "input": "Do I have to pay anything?",
+        "payload": "No, MoBerries is free for candidates."
+    },
+    {
+        "input": "Then how do you make money?",
+        "payload": "Companies subscribe to be part of the network."
+    },
+    {
+        "input": "When can I expect first results?",
+        "payload": "On average, candidates hear from us within the first 3 weeks. However, as long as you are active, we will keep hustling for you."
+    },
+    {
+        "input": "Can companies see my profile without me approving?",
+        "payload": "No! Your profile is shared only after you approve the company by liking their job opportunities."
+    },
+    {
+        "input": "How can I update my profile?",
+        "payload": "Log into your profile and edit settings."
+    },
+    {
+        "input": "After accepting a Match should I be proactive or should I just wait?",
+        "payload": "The HR Manager will contact you. You can like additional job offers on your dashboard in the meantime."
+    },
+    {
+        "input": "How do I recommend a friend and what do I get in return?",
+        "payload": "Simply send them the link to moberries.com - your friend’s gratitude will be your reward! ;)"
+    },
+    {
+        "input": "What kind of jobs do you provide?",
+        "payload": "We are driven by the mission of being the largest shared talent platform, thus we list all sorts of job positions, ranging across functions and industries, including: information technology, management consulting, business development, sales, customer service, accounting, finance, management and many more! We work with a variety of startups, established digital leaders, influential corporates, investors and investment funds."
+    },
+    {
+        "input": "What are the job suggestions on my dashboard?",
+        "payload": "Matches are positions that our system has identified as a perfect fit for your skills and preferences. Make sure to accept or decline your matches as soon as you get them to ensure that our partner companies see your interest immediately. The early bird truly does catch the worm, so do not miss out! Important: Many companies highly value personality, therefore it is still worthwhile to apply for a position - even if you do not have all the required skills."
+    },
+    {
+        "input": "Can companies see my profile without my approval?",
+        "payload": "No! Your profile is shared only after you apply for the job the employer has listed. If you decline the position the company will not see your profile."
+    },
+    {
+        "input": "How do I reset my password?",
+        "payload": "If you want to change your password click here and enter the email address you used to sign in to MoBerries."
+    },
+    {
+        "input": "Where can I see my applications and their status?",
+        "payload": "Log in and head over to Applications. Here you can see all your applications and their current status."
+    },
+    {
+        "input": "How can I improve my CV?",
+        "payload": "Below we have gathered our tips and tricks to help you out: How to write your CV Selecting a picture Designing your CV"
+    },
+    {
+        "input": "Why is the matching of my account turned off and how can I reactivate it?",
+        "payload": "Matching can be deactivated for a number of reasons: *Quality - in this case please follow the instructions our Support Team sent you via email. * Hired - when you mark yourself as hired for a position. * Inactive - you are not responding to companies on Messenger and/or you have been inactive for a few months. If you want to continue receiving job matches please follow these steps: * Click on your profile picture * Select the tab Account * Go to the third tab Settings * Scroll down and select Activate Matching"
+    },
+    {
+        "input": "What happens to my data?",
+        "payload": "Your profile, including your data, is shared only after you actively approve a company by applying for their open position. If you discard a position the company will not be able to see your profile. If you choose to delete your profile, your whole account, including all data, will be deleted irrevocably. Click here to read more about our General Data Protection Regulation (GDPR) compliance."
+    }
+]
