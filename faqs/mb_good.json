@@ -1,0 +1,118 @@
+[
+  {
+    "input": "What is MoBerries?",
+    "payload": "MoBerries has created a unique matching algorithm that matches active candidates with to-be-urgently-placed openings at our partner companies.\\nOur matching algorithm works by analyzing the profiles of our candidates and correlating them with the job descriptions published by companies.\\nFurthermore, we also take personal interests and company culture into consideration.\\nThat way we can ensure that our candidates find the best work placement to maximize their potential and happiness. \\n\\nThis will enable you to access our network and enable us to match your profile with our partners' most relevant vacancies.\\n\\nSimple: No cover letters needed! - Use the same application documents (your CV) for multiple applications. \\nFast: Get job offers from top companies as fast as possible!\\nTransparent: On the Applications page you can track the stage of each of your applications, so you can follow the entire process.  \\n\\nTIP: You can improve your profile by learning about why companies are declining you. \\nCheck the Feedback overview section in your applications page to see the exact reason of your declinations. \\n\\nDo I have to pay anything?\\nNo, MoBerries is completely free for candidates.\\n\\nCan companies see my profile as soon as I sign up?\\nNo, our system will only show your profile to companies that you have selected by matching with their listed job position. \\n\\nNot urgently looking for a job?\\nNo problem! Use our platform to gain insights into the market and prepare yourself better. Just upload your most recent and up-to-date CV \\u2013 and say goodbye to writing tedious cover letters."
+  },
+  {
+    "input": "How do I register?",
+    "payload": "Your first step is registering as a candidate here (https://app.moberries.com/signup) on the MoBerries platform. This will enable you to access our network and enable us to match your profile with our partners\\u2019 most relevant vacancies.\\nCheck out our Candidate Guide (https://www.moberries.com/page/candidateguide) to find all the important information to set up your profile at MoBerries!\\n\\nContact support@moberries.com if you experience any issues while signing up."
+  },
+  {
+    "input": "What kind of jobs do you provide?",
+    "payload": "We are driven by the mission of being the largest shared talent platform, thus we list all sorts of job positions, ranging across functions and industries, including: information technology, management consulting, business development, sales, customer service, accounting, finance, management and many more!\\n\\nWe work with a variety of startups, established digital leaders, influential corporates, investors and investment funds."
+  },
+  {
+    "input": "How to create a profile on MoBerries?",
+    "payload": "The first step is uploading your CV (please make sure it is in PDF or Word Document format and that it does not exceed our size limit of 5 MB).\\nContentwise, ensure that it is properly formatted, easily readable and if you want to include a picture make sure it is a professional one. Furthermore, list not only your previous job titles but also briefly outline your responsibilities and tasks.\\n\\nLastly, make sure that your CV is up to date at all times!\\nOur whitepaper with tips on how to create your CV can be found here (https://www.moberries.com/blog/writing-a-resume/).\\n\\nIn the Preferences tab on your MoBerries profile you can add additional information that helps further define the jobs you will be suggested - if you are open to relocation, you will also get even more matches! \\nThe Skills tab allows you to showcase all of your talents, such as languages spoken, and skills you have developed from your previous work experience. \\n\\nHow should I select job categories?\\nChoose job categories, which best reflect your previous work experience. Based on this, our algorithm will suggest suitable positions. \\n\\nWhere should I upload my cover letter or certificates?\\nYou do not need them on MoBerries. If you have an online version or a link to those documents add them as a reference to your profile.  If a company needs more information they will reach out to you. \\n\\nWhy should I add my LinkedIn Profile?\\nIt is recommended to connect your profile on MoBerries with LinkedIn \\u2013 it augments your profile by providing further professional information about your network, recommendations, key skills, and activities. Make sure to fill-in all required fields as this helps our algorithm better understand what you have achieved, what you want to achieve, and where to best place you. \\nYou connect your LinkedIn profile by clicking on your profile picture in MoBerries, select Account and then Social.\\n\\nStill have questions? Check out our Candidate Guide (https://www.moberries.com/page/candidateguide) for a complete overview."
+  },
+  {
+    "input": "How does the job-matching work?",
+    "payload": "Let our algorithm do the work!\\n\\nMoBerries has created a unique matching algorithm that matches active candidates with listed job positions at our partner companies. Our matching algorithm works by analyzing the profiles of our candidates and correlating them with the job descriptions published by companies. Furthermore, we also take personal interests and company culture into consideration - this way we can ensure that our candidates find the best work placement to maximize their potential and happiness."
+  },
+  {
+    "input": "What are the job suggestions on my dashboard?",
+    "payload": "Matches are positions that our system has identified as a perfect fit for your skills and preferences. Make sure to accept or decline your matches as soon as you get them to ensure that our partner companies see your interest immediately. The early bird truly does catch the worm, so do not miss out!\\n\\n\\n\\u200bImportant: Many companies highly value personality, therefore it is still worthwhile to apply for a position - even if you do not have all the required skills.\\n\\n \\n\\nIf there are not enough roles that fit your preferences, location and language level, the algorithm will suggest alternatives. These will deviate from your language or location preferences but are otherwise good matches. The decision is still yours. Please have a good look and accept or decline - the more you interact, the better the AI will adjust the matching."
+  },
+  {
+    "input": "How do I reset my password?",
+    "payload": "If you want to change your password click here (https://my.moberries.com/password-recovery) and enter the email address you used to sign in to MoBerries."
+  },
+  {
+    "input": "Can companies see my profile without my approval?",
+    "payload": "No! Your profile is shared only after you apply for the job the employer has listed.If you decline the position the company will not see your profile. "
+  },
+  {
+    "input": "How to apply for a job?",
+    "payload": "You found a job you are interested in? Great! Just click Apply in order to apply. Simply click on Discard, if you are not going to apply. In this case, a discarded job will disappear from your dashboard and more job openings will be loaded instead. \\n\\u200b\\n\\u200bAfter accepting a Match should I be proactive or should I just wait?\\nIf companies decide to invite you for further interviews, you will be contacted directly via our Messenger or by email. Please make sure to check your spam folder as well. \\nCheck your Applications page to follow the status of your applications.\\nOf course you can keep applying to other matches on your dashboard in the meantime."
+  },
+  {
+    "input": "How can companies reach me?",
+    "payload": "Companies can reach out to you via a variety of channels, one of them being the messenger on MoBerries! Here companies with whom you have matched can send you a direct message.\\n\\nMake sure that you also check your spam folder - companies may also prefer to reach out via email."
+  },
+  {
+    "input": "Where can I see my applications and their status?",
+    "payload": "Log in and head over to Applications. Here you can see all your applications and their current status.\\n\\nApplication in review:  Your application on the review stage at the company\\n\\u200bApplication declined: The company declined your application after review\\n\\u200bApplication accepted: The company accepted your application for an interview stage \\n\\u200bApplication expired: The company did not review your application on time\\n\\u200bApplication rejected: The company rejected your application after the interview stage\\n\\u200bJob offered: The company made you a job offer"
+  },
+  {
+    "input": "I have an \"Application accepted\" status on my application and the company did not reach out to me. What should I do?",
+    "payload": "Due to different reasons, a company might not reach out immediately after accepting the application. Please check your spam folder as well, in case they contacted you via email and not through the MoBerries platform.\\nLet us know via support@moberries.com if you do not hear back from the company within 14 days, we will then contact the company directly."
+  },
+  {
+    "input": "I accidentally applied for a position \u2013 how do I take it back?",
+    "payload": "Unfortunately, we cannot undo this for you - however, hiring managers and recruiters understand that they are dealing with humans and not robots! If the company reaches out to you, simply let them know it was an accident."
+  },
+  {
+    "input": "Can I see why companies are rejecting me?",
+    "payload": "Yes! We have a feature that allows you to view this.\\n\\nSimply go to Applications and click on the Feedback overview tab to gain this valuable data. Each company is asked to give feedback on why they declined your application, so you are able to turn the given response into further upskilling or optimization of your profile.\\n\\nPlease do not hesitate to contact us via support@moberries.com in case you need help or require more detailed insights. "
+  },
+  {
+    "input": "How can I improve my CV?",
+    "payload": "By following these simple steps, you can easily create and export a high-quality CV from your MoBerries candidate profile, increasing your chances of being noticed by potential employers.\\n\\nLog in to your candidate profile on MoBerries. Ensure that your candidate profile is fully filled and up-to-date. If you need to make any updates, you can easily do so by clicking on this link (https://app.moberries.com/profile/personal).\\n\\nOnce your candidate profile is up-to-date, you can export your CV effortlessly from within your candidate profile. Make sure to review your exported CV for accuracy and completeness before submitting it to potential employers.\\n\\nBelow we have gathered our tips and tricks to help you out:\\n- How to write your CV (https://www.moberries.com/page/how-to-write-a-cv)\\n- Selecting a picture (https://www.moberries.com/page/cv-picture)\\n- Designing your CV (https://www.moberries.com/page/designing-a-cv)\\n\\nMake sure to download our Whitepaper (https://www.moberries.com/blog/writing-a-resume) that goes through all of these points!\\nIf you have further questions don't hesitate to reach out at support@moberries.com. "
+  },
+  {
+    "input": "I received a \"Requirements Mismatch\" notification while trying to apply for a position - what does this mean?",
+    "payload": "If you have received this message, it is because you are missing certain skills and requirements that are vital for this position. Based on the contents of the error message you will be able to see which prerequisites are missing. If you do have these skills please edit your profile so that they reflect your abilities.\\nIf the error message is correct - you will not be able to apply for this position. Head back to your Dashboard for other job suggestions that are more suitably matched to your profile!"
+  },
+  {
+    "input": "I got hired. What now?",
+    "payload": "As a successful candidate on MoBerries, it is important to take a few steps to ensure you receive the maximum benefits from the platform. Here is what you need to do now that you have been hired:\\n- Mark yourself as hired: Within your Applications tab on MoBerries, select the application for the company with which you have been hired, and indicate that you have been hired. This will help us understand your progress on the platform and determine if you are eligible for a bonus of \\u20ac200.\\n- Reactivate matching (optional): Once you have marked yourself as hired, matching will be turned off automatically. If you are interested in exploring other job opportunities in the future, you can reactivate matching at any time by following the instructions in our documentation. This will allow you to continue receiving job suggestions and being contacted by recruiters on the platform.\\n- Enjoy the benefits: As a successful candidate on MoBerries, you have gained access to a number of benefits, including a profile that is visible to top recruiters, job suggestions that match your skills and experience, and the potential for bonuses when you are hired. We hope you enjoy these benefits and find success on our platform!\\n\\nFind out how to reactivate matching here (http://help.moberries.com/en/articles/3618300-why-is-the-matching-of-my-account-turned-off-and-how-can-i-reactivate-it)."
+  },
+  {
+    "input": "What are the benefits of recommending a friend?",
+    "payload": "On your dashboard, you can see lots of job matches, that can be suitable also for your friends. You can recommend a friend for such jobs and earn up to 50\\u20ac reward in case of a hire! Just simply share a job match with your friend by sending it to your friend's email or just copy a link and send it directly!"
+  },
+  {
+    "input": "What is the motivational note?",
+    "payload": "It can be important for companies to know the motivation behind your application for their open position, to take it into consideration before inviting you further into the application process.\\nNow you have the opportunity to briefly express the reasoning behind your interest in this job. It is also an opportunity to communicate something that may not have fit into your CV.\\n\\nA window will pop up when you click on apply to a position - and here you can put in the text for your motivational note.\\n\\nNOTE: providing a Motivational Note is not mandatory but can give the recruiter valuable insight into why you would like to work at this company."
+  },
+  {
+    "input": "What are the screening questions?",
+    "payload": "Many companies have requirements that are tailored specifically to their company.\\nAs it is important for the companies to be able to get this information from applicants, we have added this feature so that companies can gather this information.\\n\\nThese questions will pop up before you send the application to the company.\\n\\nNOTE: some of these questions are marked as mandatory and you will not be able to apply for the position without answering these questions."
+  },
+  {
+    "input": "Why is the matching of my account turned off and how can I reactivate it?",
+    "payload": "Matching can be deactivated for a number of reasons:\\n- Quality - in this case please follow the instructions our Support Team sent you via email.\\n- Hired - when you mark yourself as hired for a position.\\n- Inactive - you are not responding to companies on Messenger and/or you have been inactive for a few months.\\n\\nIf you want to continue receiving job matches please follow these steps:\\n1. Click on your profile picture\\n2. Select the tab Account\\n3. Go to the third tab Settings\\n4. Scroll down and select Activate Matching\\n\\nIf you are still having problems please reach out to support@moberries.com."
+  },
+  {
+    "input": "How to re activate matching?",
+    "payload": "If you want to continue receiving job matches please follow these steps:\\n1. Click on your profile picture\\n2. Select the tab Account\\n3. Go to the third tab Settings\\n4. Scroll down and select Activate Matching\\n\\nIf you are still having problems please reach out to support@moberries.com."
+  },
+  {
+    "input": "I don\u2019t want to receive more job offers. What should I do?",
+    "payload": "Click onto your profile picture and click on the tab Account, Go to the tab Settings and scroll down to Deactivate Matching. "
+  },
+  {
+    "input": "Why should I pause and not cancel my account?",
+    "payload": "A paused account can be reactivated within seconds. You can also adjust your profile easily and at any time."
+  },
+  {
+    "input": "How to delete my account?",
+    "payload": "You can delete your account and profile including all data by following these steps:\\n1. Click onto your profile picture\\n2. Use the tab Account\\n3. Go to the third tab Settings\\n4. Scroll down to Delete account\\n5. Do not forget to confirm the deletion via the email you will receive.\\n\\nAfter completing these 5 steps your whole account including all data will be deleted. If you choose to delete your profile, your whole account, including all data, will be deleted irrevocably."
+  },
+  {
+    "input": "What can MoBo do for me?",
+    "payload": "MoBo is MoBerries' mobile career assistant that sends job matches through popular messengers (Facebook, Telegram, and Whatsapp). With MoBo, you can quickly accept or decline job matches, staying informed and engaged during the job search process. Experience the benefits of our innovative career assistant and optimize your job search experience."
+  },
+  {
+    "input": "What are the benefits MoBo offers?",
+    "payload": "MoBo is a cutting-edge chatbot designed to streamline the process of creating a high-quality CV for job seekers. By leveraging popular mobile messaging platforms such as Facebook, Instagram, Telegram, and Whatsapp, MoBo provides users with a seamless and convenient experience, allowing them to create a comprehensive job search profile on MoBerries.\\n\\nBenefits at a glance:\\n- Simplifies the process of creating a high-quality CV for job seekers\\n- User-friendly and offers an intuitive interface\\n- Designed to meet industry standards and provide job seekers with a standout CV\\n- Accessible through popular mobile messaging platforms, such as Facebook, Instagram, Telegram, and Whatsapp\\n- Users can effortlessly accept or decline career opportunities directly from their mobile device, ensuring they stay engaged and informed throughout the job search process."
+  },
+  {
+    "input": "Can I use MoBo when I am already using the MoBerries platform?",
+    "payload": "MoBo is MoBerries' mobile career assistant that helps job seekers stay informed and engaged with the latest job opportunities.\\n\\nRegistered candidates can activate MoBo and receive constant job notifications.Job seekers can accept or decline job matches using a simple chat interface.To connect your MoBerries account with MoBo, login to your existing MoBerries profile and follow the instructions shown to you on the right side of your dashboard.\\n\\nStay on top of the latest job opportunities and take control of your career with ease."
+  },
+  {
+    "input": "What happens to my data?",
+    "payload": "Your profile, including your data, is shared only after you actively approve a company by applying for their open position. If you discard a position the company will not be able to see your profile. \\n\\u200bIf you choose to delete your profile, your whole account, including all data, will be deleted irrevocably. Click here (https://www.moberries.com/page/gdpr-compliant) to read more about our General Data Protection Regulation (GDPR) compliance."
+  }
+]
