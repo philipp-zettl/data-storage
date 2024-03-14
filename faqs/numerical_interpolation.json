@@ -4,6 +4,10 @@
     "payload": "Interpolation is a method used in mathematics and computer science to estimate unknown values that fall between known data points."
   },
   {
+      "input": "Which interpolation methods exist?",
+      "payload": "Various interpolation methods exist, including linear interpolation, polynomial interpolation, spline interpolation, piecewise interpolation, Lagrange interpolation, Newton interpolation, cubic spline interpolation, barycentric interpolation, rational function interpolation, and multivariate interpolation, among others."
+  },
+  {
     "input": "What are the common applications of interpolation?",
     "payload": "Interpolation is commonly used in various fields such as computer graphics, numerical analysis, signal processing, and data analysis."
   },
