@@ -1,0 +1,286 @@
+[
+    {
+        "input": "What is Tom Selleck's full name?",
+        "payload": "Thomas William Selleck"
+    },
+    {
+        "input": "When was Tom Selleck born?",
+        "payload": "Tom Selleck was born on January 29, 1945."
+    },
+    {
+        "input": "Where was Tom Selleck born?",
+        "payload": "Tom Selleck was born in Detroit, Michigan, United States."
+    },
+    {
+        "input": "What is Tom Selleck's height?",
+        "payload": "Tom Selleck is 6 feet 4 inches (1.93 meters) tall."
+    },
+    {
+        "input": "What is Tom Selleck's most famous role?",
+        "payload": "Tom Selleck's most famous role is as Thomas Magnum in the television series Magnum, P.I."
+    },
+    {
+        "input": "What was the name of Tom Selleck's character in Magnum, P.I.?",
+        "payload": "Tom Selleck played the character Thomas Magnum in Magnum, P.I."
+    },
+    {
+        "input": "Did Tom Selleck win any awards for his role in Magnum, P.I.?",
+        "payload": "Yes, Tom Selleck won a Primetime Emmy Award for Outstanding Lead Actor in a Drama Series for Magnum, P.I. in 1984."
+    },
+    {
+        "input": "In which year did Magnum, P.I. first air?",
+        "payload": "Magnum, P.I. first aired in 1980."
+    },
+    {
+        "input": "What other TV shows has Tom Selleck starred in?",
+        "payload": "Tom Selleck has also starred in TV shows such as Blue Bloods, Friends, and The Closer."
+    },
+    {
+        "input": "What is Tom Selleck's net worth?",
+        "payload": "As of recent estimates, Tom Selleck's net worth is around $45 million."
+    },
+    {
+        "input": "Has Tom Selleck ever been married?",
+        "payload": "Yes, Tom Selleck has been married. He married Jillie Mack in 1987."
+    },
+    {
+        "input": "How many children does Tom Selleck have?",
+        "payload": "Tom Selleck has one daughter named Hannah Margaret Selleck."
+    },
+    {
+        "input": "What movies has Tom Selleck starred in?",
+        "payload": "Tom Selleck has starred in movies such as Three Men and a Baby, Quigley Down Under, and Mr. Baseball."
+    },
+    {
+        "input": "What is Tom Selleck's character's name in the movie Three Men and a Baby?",
+        "payload": "Tom Selleck's character's name in Three Men and a Baby is Peter Mitchell."
+    },
+    {
+        "input": "Has Tom Selleck served in the military?",
+        "payload": "Yes, Tom Selleck served in the California Army National Guard from 1967 to 1973."
+    },
+    {
+        "input": "What college did Tom Selleck attend?",
+        "payload": "Tom Selleck attended the University of Southern California."
+    },
+    {
+        "input": "What is the name of Tom Selleck's ranch?",
+        "payload": "Tom Selleck owns a ranch called 'Hidden Valley Ranch' in Ventura County, California."
+    },
+    {
+        "input": "Has Tom Selleck written any books?",
+        "payload": "Yes, Tom Selleck co-authored a book titled 'The Selleck Way: The Ultimate Resource to Maintaining Total Excellence.'"
+    },
+    {
+        "input": "Is Tom Selleck active on social media?",
+        "payload": "No, Tom Selleck is not active on social media."
+    },
+    {
+        "input": "What is the name of Tom Selleck's character in Blue Bloods?",
+        "payload": "Tom Selleck's character in Blue Bloods is Frank Reagan."
+    },
+    {
+        "input": "What is Tom Selleck's favorite hobby?",
+        "payload": "Tom Selleck is known to be an avid outdoorsman, enjoying activities such as hunting and fishing."
+    },
+    {
+        "input": "Has Tom Selleck ever won a Golden Globe?",
+        "payload": "Yes, Tom Selleck won a Golden Globe Award for Best Actor in a Television Series Drama for Magnum, P.I. in 1985."
+    },
+    {
+        "input": "What is the name of the character Tom Selleck played in the movie Quigley Down Under?",
+        "payload": "Tom Selleck played the character Matthew Quigley in Quigley Down Under."
+    },
+    {
+        "input": "Has Tom Selleck ever played a role in a Western movie?",
+        "payload": "Yes, Tom Selleck has starred in several Western movies, including Quigley Down Under and Monte Walsh."
+    },
+    {
+        "input": "What is the title of Tom Selleck's autobiography?",
+        "payload": "Tom Selleck has not released an autobiography as of current knowledge."
+    },
+    {
+        "input": "What is Tom Selleck's favorite food?",
+        "payload": "Tom Selleck's favorite food is reportedly steak."
+    },
+    {
+        "input": "What is Tom Selleck's favorite color?",
+        "payload": "There is no widely known information about Tom Selleck's favorite color."
+    },
+    {
+        "input": "What is Tom Selleck's zodiac sign?",
+        "payload": "Tom Selleck's zodiac sign is Aquarius."
+    },
+    {
+        "input": "Has Tom Selleck ever played a detective in a movie?",
+        "payload": "Yes, Tom Selleck has played a detective in various roles, including Magnum, P.I. and Jesse Stone movies."
+    },
+    {
+        "input": "Did Tom Selleck ever appear on the TV show 'Friends'?",
+        "payload": "Yes, Tom Selleck appeared as Dr. Richard Burke, a love interest of Monica Geller, in the TV show Friends."
+    },
+    {
+        "input": "What is the name of Tom Selleck's character in the movie 'Mr. Baseball'?",
+        "payload": "Tom Selleck played the character Jack Elliot in the movie Mr. Baseball."
+    },
+    {
+        "input": "Has Tom Selleck ever played a role in a romantic comedy?",
+        "payload": "Yes, Tom Selleck has appeared in romantic comedies such as Three Men and a Baby."
+    },
+    {
+        "input": "Did Tom Selleck ever serve in the Vietnam War?",
+        "payload": "No, Tom Selleck did not serve in the Vietnam War."
+    },
+    {
+        "input": "What is Tom Selleck's middle name?",
+        "payload": "Tom Selleck's middle name is William."
+    },
+    {
+        "input": "What is Tom Selleck's favorite movie genre?",
+        "payload": "Tom Selleck's favorite movie genre is not publicly known."
+    },
+    {
+        "input": "What is Tom Selleck's favorite TV show?",
+        "payload": "Tom Selleck's favorite TV show is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever played a role in a superhero movie?",
+        "payload": "No, Tom Selleck has not played a role in a superhero movie."
+    },
+    {
+        "input": "What is Tom Selleck's favorite vacation destination?",
+        "payload": "Tom Selleck's favorite vacation destination is not publicly known."
+    },
+    {
+        "input": "Did Tom Selleck ever appear in a Broadway play?",
+        "payload": "No, Tom Selleck has not appeared in a Broadway play."
+    },
+    {
+        "input": "What is Tom Selleck's favorite animal?",
+        "payload": "Tom Selleck's favorite animal is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever directed a movie?",
+        "payload": "Yes, Tom Selleck has directed the movie 'Quigley Down Under.'"
+    },
+    {
+        "input": "What is Tom Selleck's favorite TV series?",
+        "payload": "Tom Selleck's favorite TV series is not publicly known."
+    },
+    {
+        "input": "Did Tom Selleck ever have a guest appearance on the TV show 'The Simpsons'?",
+        "payload": "Yes, Tom Selleck had a guest appearance on the TV show 'The Simpsons' in the episode 'The Springfield Connection.'"
+    },
+    {
+        "input": "What is Tom Selleck's favorite book?",
+        "payload": "Tom Selleck's favorite book is not publicly known."
+    },
+    {
+        "input": "What is Tom Selleck's favorite music genre?",
+        "payload": "Tom Selleck's favorite music genre is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever played a role in a horror movie?",
+        "payload": "No, Tom Selleck has not played a role in a horror movie."
+    },
+    {
+        "input": "Did Tom Selleck ever star in a Broadway musical?",
+        "payload": "No, Tom Selleck has not starred in a Broadway musical."
+    },
+    {
+        "input": "What is Tom Selleck's favorite sport?",
+        "payload": "Tom Selleck's favorite sport is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever appeared in a reality TV show?",
+        "payload": "No, Tom Selleck has not appeared in a reality TV show."
+    },
+    {
+        "input": "What is Tom Selleck's favorite hobby besides acting?",
+        "payload": "Tom Selleck's favorite hobby besides acting is not publicly known."
+    },
+    {
+        "input": "Did Tom Selleck ever serve in the military?",
+        "payload": "Yes, Tom Selleck served in the California Army National Guard from 1967 to 1973."
+    },
+    {
+        "input": "What is Tom Selleck's favorite car?",
+        "payload": "Tom Selleck's favorite car is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever done voice acting for animated movies?",
+        "payload": "Yes, Tom Selleck has done voice acting for animated movies, including 'The Magic of the Golden Bear: Goldy III'."
+    },
+    {
+        "input": "What is Tom Selleck's favorite cuisine?",
+        "payload": "Tom Selleck's favorite cuisine is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever played a role in a musical?",
+        "payload": "No, Tom Selleck has not played a role in a musical."
+    },
+    {
+        "input": "What is Tom Selleck's favorite drink?",
+        "payload": "Tom Selleck's favorite drink is not publicly known."
+    },
+    {
+        "input": "Did Tom Selleck ever appear on the TV show 'The Love Boat'?",
+        "payload": "Yes, Tom Selleck appeared on the TV show 'The Love Boat' in multiple episodes."
+    },
+    {
+        "input": "What is Tom Selleck's favorite holiday?",
+        "payload": "Tom Selleck's favorite holiday is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever played a role in a war movie?",
+        "payload": "Yes, Tom Selleck has played roles in war movies such as 'Ike: Countdown to D-Day'."
+    },
+    {
+        "input": "What is Tom Selleck's favorite pastime?",
+        "payload": "Tom Selleck's favorite pastime is not publicly known."
+    },
+    {
+        "input": "Did Tom Selleck ever appear on the TV show 'Cheers'?",
+        "payload": "Yes, Tom Selleck appeared on the TV show 'Cheers' as Dr. Richard Burke, a love interest of Monica Geller."
+    },
+    {
+        "input": "What is Tom Selleck's favorite dessert?",
+        "payload": "Tom Selleck's favorite dessert is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever appeared in a Broadway play?",
+        "payload": "No, Tom Selleck has not appeared in a Broadway play."
+    },
+    {
+        "input": "What is Tom Selleck's favorite holiday destination?",
+        "payload": "Tom Selleck's favorite holiday destination is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever played a role in a science fiction movie?",
+        "payload": "No, Tom Selleck has not played a role in a science fiction movie."
+    },
+    {
+        "input": "What is Tom Selleck's favorite season?",
+        "payload": "Tom Selleck's favorite season is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever played a role in a biographical film?",
+        "payload": "Yes, Tom Selleck has played roles in biographical films such as 'Ike: Countdown to D-Day'."
+    },
+    {
+        "input": "What is Tom Selleck's favorite outdoor activity?",
+        "payload": "Tom Selleck's favorite outdoor activity is not publicly known."
+    },
+    {
+        "input": "Did Tom Selleck ever have a guest appearance on the TV show 'Frasier'?",
+        "payload": "Yes, Tom Selleck had a guest appearance on the TV show 'Frasier' as Dr. Richard Burke, a love interest of Monica Geller."
+    },
+    {
+        "input": "What is Tom Selleck's favorite genre of music?",
+        "payload": "Tom Selleck's favorite genre of music is not publicly known."
+    },
+    {
+        "input": "Has Tom Selleck ever played a role in a documentary?",
+        "payload": "No, Tom Selleck has not played a role in a documentary."
+    }
+]
